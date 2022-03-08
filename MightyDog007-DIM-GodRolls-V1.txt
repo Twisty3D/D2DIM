@@ -2,4 +2,4 @@ title:MightyDog007 Witch Queen S16 God Roll List
 description:MightyDog007 Witch Queen S16 God Roll List.
 
 //Funnelweb - WQ S16
-dimwishlist:item=3341893443&perks=1428297954#notes:PvP, MW-Range, Mod Quick Access
+dimwishlist:item=3341893443&perks=1428297954,1161290#notes:PvP, MW-Range, Mod Quick Access
