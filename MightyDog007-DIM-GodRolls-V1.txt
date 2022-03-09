@@ -22,3 +22,9 @@ dimwishlist:item=2888266564&perks=4090651448,1087426260,247725512,1015611457#not
 dimwishlist:item=2888266564&perks=4090651448,1087426260,247725512,438098033#notes:PvE, MW Range, Mod Spec Mod, GamePur
 dimwishlist:item=2888266564&perks=4090651448,1087426260,247725512,4049631843#notes:PvE, MW Range, Mod Spec Mod, GamePur
 dimwishlist:item=2888266564&perks=4090651448,1087426260,247725512,2896038713#notes:PvE, MW Range, Mod Spec Mod, GamePur
+dimwishlist:item=2888266564&perks=1482024992,679225683,1570042021,1015611457#notes:PvP, MW Range/Stability, Mod Stability/Icarus, iFrostBolt (current roll)
+dimwishlist:item=2888266564&perks=2846385770,247725512,1885400500,3250034553#notes:PvP, MW Range, Mod Stability/Icarus, iFrostBolt (god roll wish)
+dimwishlist:item=2888266564&perks=2846385770,247725512#notes:PvP, MW Range, Mod Stability/Icarus, iFrostBolt (partial god roll wish)
+
+//Piece of Mind - WQ S16
+dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999#notes:PvP, MW Stability, Mod Sprint Grip, Ascendant Nomad
