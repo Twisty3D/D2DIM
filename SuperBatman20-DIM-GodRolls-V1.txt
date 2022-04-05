@@ -6,3 +6,6 @@ dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,2846385770#not
 
 //Peacebond
 dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,124408337#notes:PvP, Wacky SuperBatman20 roll choice :)
+
+//RAGNHILD-D
+dimwishlist:item=4225322581&perks=1047830412,3142289711,509074078,3511092054#notes:PvP, Wacky SuperBatman20 roll choice :)
