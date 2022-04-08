@@ -51,3 +51,6 @@ dimwishlist:item=232928045&perks=201365942,2652708987#notes:PvE, Forbes
 
 //Forbearance (Arc Breach Grenade Launcher) - WQ S16
 dimwishlist:item=613334176&perks=2010801679,2396489472#notes:PvE, Forbes
+
+//Cantata-57
+dimwishlist:item=372697604&perks=202670084,3142289711,699525795,2846385770#notes:PvP, BraveXHero, Palindrone contender
